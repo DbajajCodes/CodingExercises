@@ -11,13 +11,10 @@ public class StringReversionTest {
 		
 	//Set the expectation
 	String expected="jajaBtihskiD";	
-	String actual = "jajaBtihskiD";
 	
-	
-	When(StringReversion.performStringReversion("DikshitBajaj").thenReturn(actual);
 	
 	//Perform the execution
-	assertEquals("DikshitBajaj",("jajaBtihskiD"));
+	assertEquals(expected,StringReversion.performStringReversion("DikshitBajaj"));
 	
 	//verify the results
 	}

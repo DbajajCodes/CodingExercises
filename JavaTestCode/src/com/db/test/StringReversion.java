@@ -6,7 +6,7 @@ package com.db.test;
  */
 public class StringReversion{
 
-	 static void performStringReversion(String args) {
+	 static String performStringReversion(String args) {
 		String valToReverse = args;
 		String newValue="";
 		for(int len=valToReverse.length(); len>0; len--){
@@ -15,5 +15,7 @@ public class StringReversion{
 		}
 		System.out.println("String initially was"+valToReverse);
 		System.out.println("new String value now"+newValue);
+		
+		return newValue;
 	}
 }
