@@ -19,7 +19,4 @@ public class StringReversion{
 		return newValue;
 	}
 	 
-	 public static void main(String[] args) {
-		
-	}
 }
