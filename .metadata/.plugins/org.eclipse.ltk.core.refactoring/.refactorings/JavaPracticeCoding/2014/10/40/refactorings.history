@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;newLength&apos; from expression &apos;initialLength + 2 * noSpaces&apos;&#x0A;- Original project: &apos;JavaPracticeCoding&apos;&#x0A;- Variable name: &apos;newLength&apos;&#x0A;- Destination method: &apos;com.dikshit.chapter1.ReplaceSpace.performOperation()&apos;&#x0A;- Variable expression: &apos;initialLength + 2 * noSpaces&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;newLength&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;com.dikshit.chapter1{ReplaceSpace.java" name="newLength" replace="true" selection="757 28" stamp="1412220252573" version="1.0"/>
+</session>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="false" key="NewTestCaseCreationWizardPage.USE_TEARDOWNCLASS"/>
+	<item value="=JavaTestCode/src\/test\/java" key="org.moreunit.wizards.NewTestCaseWizard.packageFragmentRoot.JavaTestCode"/>
+	<item value="false" key="NewTestCaseCreationWizardPage.USE_CONSTRUCTOR"/>
+	<item value="=JavaPracticeCoding/src" key="org.moreunit.wizards.NewTestCaseWizard.packageFragmentRoot.JavaPracticeCoding"/>
+	<item value="false" key="NewTestCaseCreationWizardPage.USE_TEARDOWN"/>
+	<item value="false" key="NewTestCaseCreationWizardPage.USE_SETUP"/>
+	<item value="false" key="NewTestCaseCreationWizardPage.USE_SETUPCLASS"/>
+</section>

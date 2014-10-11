@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.DB.test&apos; to &apos;com.DB.test.core&apos;&#x0A;- Original project: &apos;Spring3Example&apos;&#x0A;- Original element: &apos;Spring3Example/src/main/java/com.DB.test&apos;&#x0A;- Renamed element: &apos;Spring3Example/src/main/java/com.DB.test.core&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings&#x0A;- Rename subpackages of the package" description="Rename package &apos;com.DB.test&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.DB.test" name="com.DB.test.core" qualified="false" references="true" stamp="1404570691366" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+externalMigrateFromAuthorizationDatabase/isMigrated=true
+migrateFromAuthorizationDatabase/isMigrated=true
+repositories/0051bd72010b001415ca8ba97fccfda3=0051bd72010b001415ca8ba97fccfda3;https\://src.springframework.org/svn/spring-samples/;https\://src.springframework.org/svn/spring-samples/;branches;tags;trunk;true;f89eb93f-fe00-432c-9d5f-7b86db922d13;https\://src.springframework.org/svn/spring-samples;;false;;;0

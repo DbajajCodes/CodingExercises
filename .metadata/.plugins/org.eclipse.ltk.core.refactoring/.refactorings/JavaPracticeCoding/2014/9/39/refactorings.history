@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;noSpaces&apos; in &apos;com.dikshit.chapter1.ReplaceSpace.performOperation(...)&apos; to &apos;len&apos;&#x0A;- Original project: &apos;JavaPracticeCoding&apos;&#x0A;- Original element: &apos;com.dikshit.chapter1.ReplaceSpace.performOperation(String).noSpaces&apos;&#x0A;- Renamed element: &apos;noSpaces&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;noSpaces&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.dikshit.chapter1{ReplaceSpace.java[ReplaceSpace~performOperation~QString;@noSpaces!550!563!554!561!I!0!false" name="len" references="true" stamp="1411439508628" version="1.0"/>
+</session>

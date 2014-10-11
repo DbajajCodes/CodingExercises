@@ -1,0 +1,37 @@
+package com.dikshit.chapter1;
+
+public class StringCompression {
+
+	public static String performCompression(String toCompress) {
+		char[] arrayToCompress = toCompress.toCharArray();
+		int noRepeat = 0;
+		for(int i=0; i<arrayToCompress.length-2;){
+			noRepeat=0;
+			char n = arrayToCompress[i];
+			while (n== arrayToCompress[i++]){
+				noRepeat++;
+			}
+			if(noRepeat>2) break;
+		}
+		if(noRepeat<=2) {return toCompress;}
+		else
+		{
+			String valToReturn="";
+			int counter = 0;
+			char n;
+			for(int i=0; i<arrayToCompress.length-2;){
+				n=arrayToCompress[i];
+				if(n==arrayToCompress[i++]){
+					counter+=1;
+				}
+				else
+				{
+					counter=1;
+				}
+				valToReturn=valToReturn+n+""+counter;
+			}
+			return valToReturn;
+		}
+	}
+
+}
